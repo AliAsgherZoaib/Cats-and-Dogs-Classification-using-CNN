@@ -88,10 +88,9 @@ The model shows strong performance with mild overfitting, which is controlled us
 
 ---
 
-## 📌 Author
+## 📌 Credits
 
 Developed by [Ali Asghar Darwala](https://github.com/AliAsgherZoaib)
-Built as a deep learning practice project to understand CNNs from scratch and image classification workflows.
 
 ---
 
